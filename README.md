@@ -1,9 +1,10 @@
-## Welcome to CHTBook.com Pages
+## Welcome to CHTBook.com
 
 
-Whenever you commit to this repository
+Writing & Collaboration & Innovation
 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out Email admin@ranbeis.com
+
+For more information contact me at admin@ranbeis.com
